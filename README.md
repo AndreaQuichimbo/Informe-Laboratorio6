@@ -110,9 +110,9 @@ Conectamos el Protoboard a la fuente de alimentación (rojo+,negro -)e iniciamos
 
 </div>
 
-
+**4.5.3. Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.**
   
-Tabla 5.1. Parámetros Eléctricos del circuito de la figura 6.1.
+Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
      
 |  RL (Ω)   | Corriente medida (mA) | Voltaje Medido (V) | Potencia calculada experimentalmente (W) | Potencia calculada teoricamente |
 |    :---:  |    :---:   |     :---:     |   :---:   |   :---:   |  
