@@ -112,6 +112,7 @@ Conectamos el Protoboard a la fuente de alimentación (rojo+,negro -)e iniciamos
 
 **Procedimiento Análitico**
 
+<div align="center">
 
 ![2](https://user-images.githubusercontent.com/84587172/127936138-a448faa7-a237-4c85-b3da-9c93246e9db8.png)
 
