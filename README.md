@@ -119,31 +119,25 @@ Tabla 5.1. Parámetros Eléctricos del circuito de la figura 6.1.
 |    220    |            |               |           |           |
 |    470    |            |               |           |           |
 |    680    |            |               |           |           |
-  
+|    820    |            |               |           |           |
+|   1000    |            |               |           |           |
+|   1800    |            |               |           |           |
+|   2200    |            |               |           |           |
+|   3900    |            |               |           |           |
+|   4700    |            |               |           |           |
 
 </div>
 
-**4.5.5. Verifique el cumplimiento del Teorema de Superposición y compare los
-resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
-conclusiones.**
+**4.5.5. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.**
 
-**Procedimiento Analítico**
+**4.5.5. ¿Cuál fue la potencia máxima en RL?    Watts**
 
-<div align="center">
-  
-</div>
+**4.5.6. ¿Para qué valor de RL se obtiene la MTP?  Ω**
 
-**Cálculo del Error**
-
-<div align="center">
-
-
-
-</div>
   
 # 5 VIDEO 
 
-https://youtu.be/qPvZ6IOeJFA
+
 
 # 6 CONCLUSIONES 
 
