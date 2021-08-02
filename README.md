@@ -124,6 +124,7 @@ Conectamos el Protoboard a la fuente de alimentación (rojo+,negro -)e iniciamos
 
 ![6](https://user-images.githubusercontent.com/84587172/127936330-635eb987-e365-42a6-8c7f-d78f3b2e5a28.png)
 
+  </div>
 
 Tabla 5.1. Parámetros Eléctricos del circuito de la figura 6.1.
      
