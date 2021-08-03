@@ -220,14 +220,15 @@ Tabla 5.1. Parámetros Eléctricos del circuito de la figura 6.1.
      
 |  RL (Ω)   | Corriente medida (mA) | Voltaje Medido (V) | Potencia calculada experimentalmente (W) | Potencia calculada teoricamente |
 |    :---:  |    :---:   |     :---:     |   :---:   |   :---:   |  
-|    220    |            |               |           |           |
-|    470    |            |               |           |           |
-|    680    |            |               |           |           |
-|    820    |            |               |           |           |
-|   1000    |            |               |           |           |
-|   1800    |            |               |           |           |
-|   2200    |            |               |           |           |
-|   3900    |            |               |           |           |
+|    220    |      10.6 mA      |     2.32          |           |           |
+|    470    |     8.98 mA       |       4.22        |           |           |
+|    680    |      7.98 mA      |      5.43         |           |           |
+|    820    |       7.43  mA   |       6.09        |           |           |
+|   1000    |      6.82 mA      |         6.82      |           |           |
+|   1500    |      5.56  mA      |         8.33      |           |           |
+|   1800    |     5.00  |      9.00         |           |           |
+|   2200    |         |            |           |           |
+|   3900    |           |               |           |           |
 |   4700    |            |               |           |           |
 
 </div>
