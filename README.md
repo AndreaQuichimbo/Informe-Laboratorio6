@@ -107,14 +107,180 @@ Voltaje
 
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/84587293/127945700-e9ce2b65-d369-4ac2-86cb-437ef64428cc.png)
+![image](https://user-images.githubusercontent.com/84587293/127947297-3deed792-11fe-4db9-b883-421489a1456f.png)
 
 </div>
 
 Corriente
 
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/127947210-02998a55-7967-4e60-908f-b52a5c6155e9.png)
   
+</div>
+
+Para el resistor de 470 Ω
+
+Voltaje
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/127947533-b203f804-77cf-403b-8698-38b291d6828e.png)
+
+</div>
+
+Corriente
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/127947570-397dbd19-ac31-4f71-814b-8dd8f5297a9d.png)
+
+</div>
+
+Para el resistor de 680 Ω
+
+Voltaje
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/127947776-ec9ffc02-bc31-48cd-ab2b-c4bf20628569.png)
+
+</div>  
   
+Corriente
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/127947838-29dbf08c-fd6d-45f5-9014-c92429a10cfa.png)
+
+</div> 
+
+Para el resistor de 820 Ω
+
+Voltaje
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/127948047-8bdf30cc-e6a1-444d-824c-838c2ce14280.png)
+
+</div> 
+
+Corriente
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/127948125-b40c1dd3-ee3e-40ef-bf77-7894d6f7c10d.png)
+
+</div> 
+
+Para el resistor de 1000 Ω
+
+Voltaje
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/127948202-628c61e4-59e0-4496-b344-fa769be99971.png)
+
+</div> 
+
+Corriente
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/127948244-488964bf-2f1c-4df4-933f-9b6a8719cb3a.png)
+
+</div> 
+
+Para el resistor de 1500 Ω
+
+Voltaje
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/127948312-23189d6b-5a1d-4662-842e-44870bacc247.png)
+
+ </div> 
+
+Corriente
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/127948368-649a4300-ac05-448e-badf-e56390141ade.png)
+
+</div>  
+  
+Para el resistor de 1800 Ω
+
+Voltaje
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/127948630-12e7de87-1a33-403c-bdc2-083c0b0398b0.png)
+
+</div>  
+
+Corriente
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/127948699-c5d940aa-53b0-4cc6-bf00-433339cf0cbe.png)
+
+ </div> 
+ 
+Para el resistor de 2200 Ω
+
+Voltaje
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/127949037-de7cb000-60d1-4e55-934a-14c15890620a.png)
+
+ </div> 
+ 
+ Corriente
+ 
+ <div align="center">
+ 
+![image](https://user-images.githubusercontent.com/84587293/127949104-69c9f225-0e50-4b75-81c6-431aac3f5e75.png)
+
+ </div> 
+
+Para el resistor de 3900 Ω
+
+Voltaje
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/127949275-7f4a23da-cd31-4917-8c38-857721cf6bfc.png)
+
+</div> 
+ 
+ Corriente
+ 
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/127949301-dd05b8fb-fba2-4c7f-947d-63cd17d8d974.png)
+  
+ </div> 
+ 
+ Para el resistor de 4700 Ω
+
+Voltaje
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/127949372-cfce6fd8-2ec5-4738-8b99-64ff56c2692a.png)
+
+ </div> 
+
+Corriente
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/127949418-611342bf-96a4-410e-8a0c-dadd905fc3b6.png)
+
+ </div>  
+ 
 
 # 4 EXPLICACIÓN DEL PROCEDIMIENTO
 
