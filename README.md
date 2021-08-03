@@ -30,6 +30,8 @@ Ing. Darwin Omar Alulema Flores
 
 1.1.1. Objetivo general
 
+Analizar  el  efecto  de  la  variación  de  la  carga  en  la  potencia  entregada  por  un circuito.
+
 1.1.2. Objetivos específicoso
 
 - Conocer los fundamentos básicos de este teorema.
