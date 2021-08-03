@@ -47,6 +47,20 @@ Para el circuito de la figura 6.1, obtenga la potencia para cada valor de carga 
 
 # 3 MATERIAL Y EQUIPO REQUERIDO
 
+3.1 REQUISITOS PREVIOS
+
+Para el circuito de la figura 6.1, obtenga la potencia para cada valor de carga mostrado en la tabla 6.1 y anote los resultados en la misma.
+
+3.2 NFORMACIÓN GENERAL
+
+La cantidad de potencia que una fuente de voltaje puede suministrar está limitada por su resistencia interna RS.
+
+El Teorema de la Máxima Transferencia de Potencia establece que:
+
+Una fuente de voltaje entrega la máxima transferencia de potencia a una resistencia de carga RL, cuando el valor de esta resistencia es igual a la resistencia interna de la fuente, RS.
+
+3.3 MATERIAL Y EQUIPO REQUERIDO
+
 <div align="center">
      
 |**CANTIDAD**|       **MATERIAL O EQUIPO**      |
@@ -66,6 +80,41 @@ Para el circuito de la figura 6.1, obtenga la potencia para cada valor de carga 
 |      1     |            Protoboard            |
   
 </div>
+
+3.4 PROCEDIMIENTO
+
+3.4.1 Arme el circuito que se muestra en la figura 6.1
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/127945028-4c13602e-0043-4695-a4cc-ed7b2b16f9bb.png)
+
+</div>
+
+Circuito Armado en Tinkercad
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/127945137-9decf3f4-f09a-4e8d-9658-61c727aef151.png)
+
+</div>
+
+3.4.2 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1
+
+Para el resistor de 220 Ω
+
+Voltaje
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/127945700-e9ce2b65-d369-4ac2-86cb-437ef64428cc.png)
+
+</div>
+
+Corriente
+
+  
+  
 
 # 4 EXPLICACIÓN DEL PROCEDIMIENTO
 
