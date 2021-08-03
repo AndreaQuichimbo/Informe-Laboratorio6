@@ -60,6 +60,12 @@ Bajo la luz de este nuevo concepto, obtuvieron una eficiencia cercana al 90% y p
 
 En el circuito resulta que la máxima transferencia de potencia tiene lugar cuando la resistencia de la carga es igual a la resistencia interna del generador
 
+La cantidad de potencia que una fuente de voltaje puede suministrar está limitada por su resistencia interna RS.
+
+El Teorema de la Máxima Transferencia de Potencia establece que:
+
+Una fuente de voltaje entrega la máxima transferencia de potencia a una resistencia de carga RL, cuando el valor de esta resistencia es igual a la resistencia interna de la fuente, RS.
+
 # 2 MARCO TEÓRICO
 
 <div align="center">
@@ -69,20 +75,6 @@ En el circuito resulta que la máxima transferencia de potencia tiene lugar cuan
 </div>
 
 # 3 MATERIAL Y EQUIPO REQUERIDO
-
-3.1 REQUISITOS PREVIOS
-
-Para el circuito de la figura 6.1, obtenga la potencia para cada valor de carga mostrado en la tabla 6.1 y anote los resultados en la misma.
-
-3.2 NFORMACIÓN GENERAL
-
-La cantidad de potencia que una fuente de voltaje puede suministrar está limitada por su resistencia interna RS.
-
-El Teorema de la Máxima Transferencia de Potencia establece que:
-
-Una fuente de voltaje entrega la máxima transferencia de potencia a una resistencia de carga RL, cuando el valor de esta resistencia es igual a la resistencia interna de la fuente, RS.
-
-3.3 MATERIAL Y EQUIPO REQUERIDO
 
 <div align="center">
      
@@ -360,5 +352,10 @@ Tabla 5.1. Parámetros Eléctricos del circuito de la figura 6.1.
 # 7 BIBLIOGRAFÍAS
 
 ANÁLISIS DE CIRCUITOS Y SISTEMAS LINEALES. (s.f.). Obtenido de https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_07.htm
+
+ELECTRÓNICA Unicrom. (s.f.). Obtenido de Teorema de máxima transferencia de potencia: https://unicrom.com/teorema-de-maxima-transferencia-de-potencia/
+
+Teorema de transferencia de potencia máxima. (28 de 05 de 2021). Obtenido de https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
+
 
 
