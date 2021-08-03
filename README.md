@@ -330,6 +330,9 @@ Tabla 5.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 # 6 CONCLUSIONES 
 
+- Si la resistencia de carga es menor o mayor que la resistencia Thevenin / Norton de la red de origen, su potencia disipada será menor que la máxima.
+- Cuando es importante obtener la máxima transferencia de potencia, la resistencia de carga debe adaptarse a la resistencia interna en las fuentes de voltaje.
+- El tamaño de la carga siempre afecta la cantidad de energía transferida desde la fuente de suministro, es decir, cualquier cambio en la resistencia de carga resulta en cambios en la transferencia de potencia a la carga. Por lo tanto, el teorema de transferencia de potencia máxima asegura la condición de transferir la potencia máxima a la carga. Veamos cómo.
 
 # 7 BIBLIOGRAFÍAS
 
