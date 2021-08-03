@@ -334,10 +334,15 @@ Tabla 5.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 **4.5.5. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.**
 
-**4.5.5. ¿Cuál fue la potencia máxima en RL?    Watts**
+El Teorema de Máxima Transferencia de Potencia no se cumple, debido a que a que este teorema indica que RL recibirá la máxima potencia solamente cuando el valor de la resistencia interna de la fuente sea igual al valor de la resistencia equivalente RL, es decir RS=RL, como en este caso no tenemos una resistencia RL de 1200 Ω no se cumple el teorema.
 
-**4.5.6. ¿Para qué valor de RL se obtiene la MTP?  Ω**
+**4.5.5. ¿Cuál fue la potencia máxima en RL?**
 
+0.046 Watts
+
+**4.5.6. ¿Para qué valor de RL se obtiene la MTP?**
+
+1000 Ω
   
 # 5 VIDEO 
 
