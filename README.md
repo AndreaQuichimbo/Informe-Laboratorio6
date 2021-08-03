@@ -81,15 +81,19 @@ Una fuente de voltaje entrega la máxima transferencia de potencia a una resiste
   
 </div>
 
-3.4 PROCEDIMIENTO
+# 4 EXPLICACIÓN DEL PROCEDIMIENTO
 
-3.4.1 Arme el circuito que se muestra en la figura 6.1
+**4.5 PROCEDIMIENTO**
+
+**4.5.1. Arme el circuito que se muestra en la figura 5.1.**
 
 <div align="center">
   
-![image](https://user-images.githubusercontent.com/84587293/127945028-4c13602e-0043-4695-a4cc-ed7b2b16f9bb.png)
+![image](https://user-images.githubusercontent.com/84430867/127933740-cbd0c0d0-6fc8-4385-ab3c-d93c4aaa783e.png)
 
 </div>
+
+**4.5.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.**
 
 Circuito Armado en Tinkercad
 
@@ -99,7 +103,7 @@ Circuito Armado en Tinkercad
 
 </div>
 
-3.4.2 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1
+**3.4.2 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1**
 
 Para el resistor de 220 Ω
 
@@ -281,50 +285,6 @@ Corriente
 
  </div>  
  
-
-# 4 EXPLICACIÓN DEL PROCEDIMIENTO
-
-**4.5 PROCEDIMIENTO**
-
-**4.5.1. Arme el circuito que se muestra en la figura 5.1.**
-
-<div align="center">
-  
-![image](https://user-images.githubusercontent.com/84430867/127933740-cbd0c0d0-6fc8-4385-ab3c-d93c4aaa783e.png)
-
-</div>
-
-**4.5.2. Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.**
-
-Seleccionamos los materiales para proceder armar el circuito.
-
-<div align="center">
-
-
-</div>
-
-Colocamos las resistencias al Protoboard siguiendo el diagrama espermático dado.
-
-<div align="center">
-
-
-</div>
-
-Interconectamos las resistencias en el Protoboard siguiendo el circuito dado.
-
-<div align="center">
-
-
-
-</div>
-
-Conectamos el Protoboard a la fuente de alimentación (rojo+,negro -)e iniciamos la simulación con el circuito terminado.
-
-<div align="center">
-
-
-</div>
-
 **Procedimiento Análitico**
 
 <div align="center">
