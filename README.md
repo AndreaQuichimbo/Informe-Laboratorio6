@@ -32,16 +32,37 @@ Ing. Darwin Omar Alulema Flores
 
 1.1.2. Objetivos específicoso
 
+- Conocer los fundamentos básicos de este teorema.
+- Analizar el comportamiento de un circuito DC mediante la aplicación del principio de la Máxima Transferencia de Potencia.
+- Determinar experimentalmente la condición necesaria para hallar la Máxima Transferencia de Potencia de un circuito eléctrico.
+
 **1.2. REQUISITOS PREVIOS**
 
 Para el circuito de la figura 6.1, obtenga la potencia para cada valor de carga mostrado en la tabla 6.1 y anote los resultados en la misma.
 
 **1.3. INFORMACIÓN GENERAL**
 
+Se ha definido la potencia como la velocidad de producción de trabajo. Eléctricamente, la unidad de potencia es el vatio o watt "W". La relación de dependencia entre la potencia de c.c. "W" en una resistencia "R", la tensión "E" entre los extremos de "R", y la corriente "I" en "R" viene dada por la siguiente ecuación:
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/127953815-50ffd019-7e1f-4508-b5d1-cd1d239bb8e7.png)
+
+</div>
+
+El teorema de máxima transferencia de potencia fue originalmente malinterpretado (notablemente por Joule) para sugerir que un sistema que consiste de un motor eléctrico comandado por una batería no podría superar el 50% de eficiencia pues, cuando las impedancias estuviesen adaptadas, la potencia perdida como calor en la batería sería siempre igual a la potencia entregada al motor.
+
+En 1880, Edison (o su colega Francis Robbins Upton) muestra que esta suposición es falsa, al darse cuenta que la máxima eficiencia no es lo mismo que transferencia de máxima potencia. Para alcanzar la máxima eficiencia, la resistencia de la fuente (sea una batería o un dínamo) debería hacerse lo más pequeña posible.
+
+Bajo la luz de este nuevo concepto, obtuvieron una eficiencia cercana al 90% y probaron que el motor eléctrico era una alternativa práctica al motor térmico.
+
+En el circuito resulta que la máxima transferencia de potencia tiene lugar cuando la resistencia de la carga es igual a la resistencia interna del generador
+
 # 2 MARCO TEÓRICO
 
 <div align="center">
   
+![image](https://user-images.githubusercontent.com/84430867/127953930-983a323d-2296-46f6-a53c-7691e3e43414.png)
 
 </div>
 
